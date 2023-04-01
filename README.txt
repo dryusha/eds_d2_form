@@ -90,7 +90,7 @@ Instruction:
   }`
 10 in "Console" put your income dividends data with maximum of 100 positions, for example:
   `const data = [
-      'DE; 2022-05-09; EUR; BMW; 10.0; 2.0'
+      'DE; 2022-05-09; EUR; BMW; 10.0; 2.0',
       'DE; 2022-05-09; EUR; BMW; 10.0; 2.0',
       'DE; 2022-05-09; EUR; BMW1; 11.0; 2.1',
       'US; 2022-03-10; USD; IBM; 3.28; 0.49; 0.908',
